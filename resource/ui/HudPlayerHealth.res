@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"147"
+		"xpos"			"c-238"
 		"ypos"			"r76"
 		"zpos"			"4"
 		"wide"			"51"
@@ -192,7 +192,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HealthPanelBG"
-		"xpos"			"183"
+		"xpos"			"c-202"
 		"ypos"			"r40"
 		"zpos"			"-3"
 		"wide"			"65"
